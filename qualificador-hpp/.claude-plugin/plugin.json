@@ -1,0 +1,11 @@
+{
+  "name": "qualificador-hpp",
+  "displayName": "Qualificador HPP",
+  "version": "1.0.0",
+  "description": "Copiloto de qualificação B2B para captação via incentivos fiscais (FIA/Rouanet) do Hospital Pequeno Príncipe: orquestra o fluxo completo, consulta empresas por CNPJ, calcula elegibilidade fiscal e score ICP, seleciona e enriquece decisores, cadastra no Pipefy e prepara abordagem por e-mail. Funciona standalone, sem precisar de um Projeto configurado manualmente no claude.ai.",
+  "author": {
+    "name": "Thi"
+  },
+  "keywords": ["hpp", "fia", "rouanet", "qualificacao-b2b", "incentivos-fiscais", "captacao"],
+  "mcpServers": "./.mcp.json"
+}

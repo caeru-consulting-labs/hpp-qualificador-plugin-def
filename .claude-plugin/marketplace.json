@@ -1,0 +1,17 @@
+{
+  "name": "hpp-qualificador-marketplace",
+  "owner": {
+    "name": "Thi"
+  },
+  "metadata": {
+    "description": "Marketplace pessoal com o plugin de qualificação B2B do Hospital Pequeno Príncipe (HPP)."
+  },
+  "plugins": [
+    {
+      "name": "qualificador-hpp",
+      "source": "./qualificador-hpp",
+      "description": "Qualificação B2B de empresas para captação via FIA/Rouanet do HPP: consulta CNPJ, score ICP, seleção e enriquecimento de decisores, cadastro no Pipefy e abordagem por e-mail.",
+      "category": "sales-and-fundraising"
+    }
+  ]
+}

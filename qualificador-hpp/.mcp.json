@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Qualificador_HPP": {
+      "type": "http",
+      "url": "https://vicenteproton.app.n8n.cloud/mcp/acf2f630-b5f5-4354-82ba-8ee2f1270a24"
+    }
+  }
+}
