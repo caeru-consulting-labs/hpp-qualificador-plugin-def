@@ -6,6 +6,22 @@
   "author": {
     "name": "Thi"
   },
-  "keywords": ["hpp", "fia", "rouanet", "qualificacao-b2b", "incentivos-fiscais", "captacao"],
+  "keywords": [
+    "hpp",
+    "fia",
+    "rouanet",
+    "qualificacao-b2b",
+    "incentivos-fiscais",
+    "captacao"
+  ],
+  "userConfig": {
+    "hpp_bearer_token": {
+      "type": "string",
+      "title": "Token de acesso HPP",
+      "description": "Bearer token do endpoint MCP do Qualificador HPP",
+      "sensitive": true,
+      "required": true
+    }
+  },
   "mcpServers": "./.mcp.json"
 }
